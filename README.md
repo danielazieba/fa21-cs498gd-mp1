@@ -1,4 +1,4 @@
-# CS498FA21 MP1: Infinite Matrix
+# infinite rainbow matrix experience
 
 ## Features
 
